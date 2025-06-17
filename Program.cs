@@ -22,10 +22,7 @@ class Program
         Console.OutputEncoding = System.Text.Encoding.UTF8;
 
         using var cts = new CancellationTokenSource();
-        var receiverOptions = new ReceiverOptions
-        {
-            AllowedUpdates = Array.Empty<UpdateType>()
-        };
+        var receiverOptions = new ReceiverOptions(); 
 
         botClient.StartReceiving(
             HandleUpdateAsync,

@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
@@ -83,8 +83,7 @@
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-17T23:34:19.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T23:34:19.013Z"
             },
             {
               "$type": "Document",
@@ -161,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PriceService.cs",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\PriceService.cs",
               "RelativeDocumentMoniker": "PriceService.cs",
@@ -169,8 +168,7 @@
               "RelativeToolTip": "PriceService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T22:24:49.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T22:24:49.196Z"
             },
             {
               "$type": "Document",
