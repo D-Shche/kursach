@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,15 +62,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
               "ToolTip": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-17T23:35:24.692Z"
+              "WhenOpened": "2025-06-17T23:35:24.692Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -146,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

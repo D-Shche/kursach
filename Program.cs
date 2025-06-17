@@ -137,6 +137,7 @@ class Program
     }
     private static async Task HandleUpdateAsync(ITelegramBotClient bot, Update update, CancellationToken cancellationToken)
     {
+        Console.WriteLine($"[Update] Type: {update.Type}, Text: {update.Message?.Text}");
         if (update.Type != UpdateType.Message || update.Message?.Text == null)
             return;
 
