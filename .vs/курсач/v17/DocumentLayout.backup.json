@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\topfiveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:topfiveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\helpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:helpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\alertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +62,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CompareService.cs",
-              "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\CompareService.cs",
-              "RelativeDocumentMoniker": "CompareService.cs",
-              "ToolTip": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\CompareService.cs",
-              "RelativeToolTip": "CompareService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvz8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T22:23:09.832Z",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-17T23:35:24.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-17T23:34:19.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "HistoryService.cs",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\HistoryService.cs",
               "RelativeDocumentMoniker": "HistoryService.cs",
@@ -75,12 +96,11 @@
               "RelativeToolTip": "HistoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T22:25:28.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T22:25:28.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "HelpService.cs",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\HelpService.cs",
               "RelativeDocumentMoniker": "HelpService.cs",
@@ -88,12 +108,11 @@
               "RelativeToolTip": "HelpService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T22:24:13.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T22:24:13.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FavoriteService.cs",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\FavoriteService.cs",
               "RelativeDocumentMoniker": "FavoriteService.cs",
@@ -101,12 +120,11 @@
               "RelativeToolTip": "FavoriteService.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAADwv1oAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T22:25:07.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T22:25:07.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ChartService.cs",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\ChartService.cs",
               "RelativeDocumentMoniker": "ChartService.cs",
@@ -114,12 +132,11 @@
               "RelativeToolTip": "ChartService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T22:22:49.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T22:22:49.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TopFiveService.cs",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\TopFiveService.cs",
               "RelativeDocumentMoniker": "TopFiveService.cs",
@@ -127,8 +144,7 @@
               "RelativeToolTip": "TopFiveService.cs",
               "ViewState": "AgIAABcAAAAAAAAAAADwvzIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T22:23:55.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T22:23:55.288Z"
             },
             {
               "$type": "Document",
@@ -136,16 +152,16 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T01:15:56.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PriceService.cs",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\PriceService.cs",
               "RelativeDocumentMoniker": "PriceService.cs",
@@ -158,7 +174,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "CompareService.cs",
+              "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\CompareService.cs",
+              "RelativeDocumentMoniker": "CompareService.cs",
+              "ToolTip": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\CompareService.cs",
+              "RelativeToolTip": "CompareService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvz8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T22:23:09.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AlertService.cs",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\AlertService.cs",
               "RelativeDocumentMoniker": "AlertService.cs",
@@ -166,8 +194,7 @@
               "RelativeToolTip": "AlertService.cs",
               "ViewState": "AgIAABUAAAAAAAAAAADwvx8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T22:21:15.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T22:21:15.021Z"
             }
           ]
         }
