@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\helpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:helpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\helpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:helpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,13 +82,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HelpService.cs",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\HelpService.cs",
               "RelativeDocumentMoniker": "HelpService.cs",
-              "ToolTip": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\HelpService.cs*",
-              "RelativeToolTip": "HelpService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\HelpService.cs",
+              "RelativeToolTip": "HelpService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T22:24:13.853Z",
               "EditorCaption": ""
@@ -131,12 +131,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
+              "ToolTip": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Program.cs",
+              "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAI0AAAAAAAAAAAAowJcAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T01:15:56.85Z",
