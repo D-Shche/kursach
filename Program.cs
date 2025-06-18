@@ -11,7 +11,7 @@ namespace CryptoPriceBot;
 
 class Program
 {
-    private static readonly string botToken = Environment.GetEnvironmentVariable("BOT_TOKEN");
+    private static readonly string botToken = "8024857131:AAGQqo6MtPcI0qa_fPpfkiBGPpuWtkgq1A0";
     private static readonly TelegramBotClient botClient = new(botToken);
     private static readonly string connectionString = "Data Source=crypto_bot.db;Version=3;";
 
@@ -149,7 +149,8 @@ class Program
 
         try
         {
-            if (text.StartsWith("/price")) await PriceService.GetCryptoPrice(bot, message);
+            if (text.StartsWith("/start")) await ShowCommands(bot, message);
+            else if (text.StartsWith("/price")) await PriceService.GetCryptoPrice(bot, message);
             else if (text.StartsWith("/history")) await HistoryService.ShowHistory(bot, message);
             else if (text.StartsWith("/favorite")) await FavoritesService.ShowFavorites(bot, message);
             else if (text.StartsWith("/addfavorite")) await FavoritesService.AddFavorite(bot, message);

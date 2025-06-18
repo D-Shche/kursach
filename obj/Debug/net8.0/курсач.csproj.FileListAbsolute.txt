@@ -44,3 +44,4 @@ C:\Users\ender\source\repos\курсач\obj\Debug\net8.0\refint\курсач.dl
 C:\Users\ender\source\repos\курсач\obj\Debug\net8.0\курсач.pdb
 C:\Users\ender\source\repos\курсач\obj\Debug\net8.0\курсач.genruntimeconfig.cache
 C:\Users\ender\source\repos\курсач\obj\Debug\net8.0\ref\курсач.dll
+C:\Users\ender\source\repos\курсач\obj\Debug\net8.0\курсач.sourcelink.json

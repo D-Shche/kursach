@@ -29,5 +29,6 @@ namespace CryptoPriceBot.Services
                 parseMode: ParseMode.Markdown
             );
         }
+
     }
 }

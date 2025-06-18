@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\helpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:helpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:priceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\topfiveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:topfiveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\helpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:helpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\alertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\favoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:favoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|c:\\users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BABC458-B3B4-40E3-8E52-FE1B5A47A6C3}|\u043A\u0443\u0440\u0441\u0430\u0447.csproj|solutionrelative:historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
@@ -70,24 +66,11 @@
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-17T23:35:24.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T23:35:24.692Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-17T23:34:19.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "HistoryService.cs",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\HistoryService.cs",
               "RelativeDocumentMoniker": "HistoryService.cs",
@@ -99,15 +82,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "HelpService.cs",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\HelpService.cs",
               "RelativeDocumentMoniker": "HelpService.cs",
-              "ToolTip": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\HelpService.cs",
-              "RelativeToolTip": "HelpService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\HelpService.cs*",
+              "RelativeToolTip": "HelpService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T22:24:13.853Z"
+              "WhenOpened": "2025-06-17T22:24:13.853Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -135,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TopFiveService.cs",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\TopFiveService.cs",
               "RelativeDocumentMoniker": "TopFiveService.cs",
@@ -151,16 +135,16 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAowJcAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T01:15:56.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PriceService.cs",
               "DocumentMoniker": "C:\\Users\\ender\\source\\repos\\\u043A\u0443\u0440\u0441\u0430\u0447\\PriceService.cs",
               "RelativeDocumentMoniker": "PriceService.cs",
